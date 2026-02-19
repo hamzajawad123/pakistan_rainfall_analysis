@@ -81,8 +81,3 @@ Feel free to open an issue or submit a pull request if you’d like to:
 
 ## 📚 Acknowledgements  
 Thanks to the Kaggle community for sharing the original rainfall dataset and to all data-visualization resources available online.
-
----
-
-## 📄 License  
-This project is released under the MIT License — see the [LICENSE](./LICENSE) file for details.  
